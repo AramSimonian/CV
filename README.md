@@ -2,7 +2,7 @@
 
 I'm a Chemical Engineering graduate with twenty years' IT experience (both dev and support) in the financial services industry. Simplifying people's working lives, usually using technology, is what I love most about IT.
 
-By engaging with end users and understanding their needs and wants, I've regularly reduced process execution times by 50% - 80% (sometimes even more).  As importantly, what's left behind is a better-structured, documented solution that's easier on the end user and anyone who has to maintain it.
+By engaging with end users and understanding their needs and wants, I've regularly reduced process execution times by 50%-80% (sometimes even more).  As importantly, what's left behind is a better-structured, documented solution that's easier on the end user and anyone who has to maintain it.
 
 I'm looking for more of the same: the opportunity to have people actually enjoy their work because the tools they use are so awesome.  I've worked in many different areas in finance and I'd be very happy to explore opportunities elsewhere as well.
 
@@ -11,7 +11,7 @@ I'm looking for more of the same: the opportunity to have people actually enjoy 
 
 #### VBA
 
-VB/VBA/VBScript is my main skill right now and I've used it to solve business problems and automate business processes and reporting for a long time.  I've not found my experience matched very often and I have been told that the performance I seek is impossible using VBA.  Re-writing a data load process to include data validation rules and then also achieving a 97% reduction in execution time was particularly satisfying (~1hr down to under 2 mins). 
+VB/VBA/VBScript is my main skill right now and I've used it to solve business problems and automate business processes and reporting for a long time.  My level of expertise is rarely matched: I have been told that the performance I seek is impossible using VBA.  My rebuttal took the form of re-writing a data load process to include data validation rules, achieving a 97% reduction in execution time (~1hr down to under 2mins). 
 
 There's always more to learn, but I'm starting to feel the boundaries and limits of VBA.
 
