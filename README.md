@@ -11,13 +11,13 @@ I'm looking for more of the same: the opportunity to have people actually enjoy 
 
 #### VBA
 
-VB/VBA/VBScript is my main skill right now and I've used it to solve business problems and automate business processes and reporting for a long time.  My level of expertise is rarely matched: I have been told that the performance I seek is impossible using VBA.  My rebuttal took the form of re-writing a data load process to include data validation rules, achieving a 97% reduction in execution time (~1hr down to under 2mins). 
+VB/VBA/VBScript is my main skill right now and I've used it to solve business problems and automate business processes and reporting for a long time: my level of expertise is rarely matched.  I have been told a couple of times that the performance I seek is impossible using VBA.  On one occasion my rebuttal took the form of re-writing a data load process (including newly crafted data validation rules) and achieving a 97% reduction in execution time (~1hr down to under 2mins).
 
 There's always more to learn, but I'm starting to feel the boundaries and limits of VBA.
 
 #### SQL
 
-SQL has always been a secondary skill that's often complemented my VBA.  I have a good grasp of it and know sufficient database theory to trouble-shoot queries.  I'm most comfortable with SQL Server, but I have worked with Sybase and Oracle.
+SQL has always been a secondary skill that's often complemented my VBA.  I have a good grasp of it and know sufficient database theory to set up databases and trouble-shoot queries.  I'm most comfortable with SQL Server, but I have worked with Sybase and Oracle.
 
 #### PowerShell
 
@@ -31,7 +31,7 @@ During the course I'll be covering these technologies and more:
 - OOP, TDD, MVC, DDD  
 - Agile/XP  
 - Ruby, Rails, JavaScript  
-- RSpec, Jasmine
+- RSpec, Jasmine, Capybara
 
 
 #### edX / MIT (Jan 2016 to Mar 2016)
