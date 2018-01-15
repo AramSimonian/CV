@@ -27,8 +27,8 @@ I have some limited experience with PowerShell, gained through one of my contrac
 
 #### Makers Academy (Sept 2017 to Dec 2017)
 
-During the course I'll be covering these technologies and more:  
-- OOP, TDD, MVC, DDD  
+During the course I covered these technologies and more:  
+- OOP, TDD, MVC
 - Agile/XP  
 - Ruby, Rails, JavaScript  
 - RSpec, Jasmine, Capybara
